@@ -1,0 +1,6 @@
+{
+  "name": "Boston-housing",
+  "tagline": "Predicting Boston Housing Prices",
+  "body": "### About\r\nThis project is part of the Udacity Machine Learning Engineer Nanodegree (https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009).\r\n\r\n### Project Summary\r\nBuilt a model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.\r\n\r\n![Boston Apartment Row](https://raw.githubusercontent.com/jannab/boston-housing/master/boston-286902_960_720.jpg)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
